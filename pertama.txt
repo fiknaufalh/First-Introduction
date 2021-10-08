@@ -1,3 +1,4 @@
 Halo semuanya!
 
 Gua Nopal dan ini adalah file percobaan untuk mengetes branch.
+Bidang yang pengen gua pelajarin berikutnya yaitu Data Science.
